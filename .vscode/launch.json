@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem21_201903053_Ch_02",
+            "request": "launch",
+            "mainClass": "Problem21_201903053_Ch_02"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DateTest",
+            "request": "launch",
+            "mainClass": "DateTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Date",
+            "request": "launch",
+            "mainClass": "Date"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld"
+        }
+    ]
+}
